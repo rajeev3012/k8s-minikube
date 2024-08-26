@@ -2,8 +2,8 @@
 Cluster setup and Application deployment:-
 
 1. Kubernetes Cluster Setup with Minikube:
-• Set up a local Kubernetes cluster using Minikube.
-• Minikube creates a lightweight cluster with a single node for development and testing purposes.
+	• Set up a local Kubernetes cluster using Minikube.
+	• Minikube creates a lightweight cluster with a single node for development and testing purposes.
 
 
 3. Containerization of a Node App:
