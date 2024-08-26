@@ -44,6 +44,6 @@ Cluster setup and Application deployment:-
 	• Expose the app using a service with kubectl apply -f service.yaml.
 	• Access the deployed app in your browser by navigating to the service’s external IP or domain.
 
-       		# minikube services node-app-service
+       	# minikube services node-app-service
 
 
